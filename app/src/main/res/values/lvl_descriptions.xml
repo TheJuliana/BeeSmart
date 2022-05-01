@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl_desc_1">Время</string>
+    <string name="lvl_desc_2">Ускорение</string>
+    <string name="lvl_desc_3">Скорость</string>
+    <string name="lvl_desc_4">Сила</string>
+    <string name="lvl_desc_5">Работа</string>
+    <string name="lvl_desc_6">Энергия</string>
+    <string name="lvl_desc_7">Путь</string>
+    <string name="lvl_desc_8">Вес</string>
+    <string name="lvl_desc_9">Мощность</string>
+    <string name="lvl_desc_10">Емкость</string>
+
+    <string name="lvl_desc_4_1">Температура</string>
+    <string name="lvl_desc_4_2">Масса</string>
+
+
+    <string name="lvl_desc_2_1">Период</string>
+    <string name="lvl_desc_2_2">Угловая скорость</string>
+    <string name="lvl_desc_2_3">Плотность</string>
+    <string name="lvl_desc_2_4">Давление</string>
+    <string name="lvl_desc_2_5">Частота</string>
+    <string name="lvl_desc_2_6">Ток</string>
+    <string name="lvl_desc_2_7">Количество теплоты</string>
+    <string name="lvl_desc_2_8">Электромагнитная индукция</string>
+    <string name="lvl_desc_2_9">Потенциал</string>
+    <string name="lvl_desc_2_10">Объем</string>
+
+    <string name="lvl_desc_3_1">Водяной пар имеет вид белых клубов?</string>
+    <string name="lvl_desc_3_2">Удельная теплота сгорания пороза меньше, чем керосина?</string>
+    <string name="lvl_desc_3_3">Холодная вода быстрее гасит огонь, чем кипяток?</string>
+    <string name="lvl_desc_3_4">В полном чайнике вода остывает медленнее, чем в неполном?</string>
+    <string name="lvl_desc_3_5">Южный магнитный полюс земли находится в антарктиде?</string>
+    <string name="lvl_desc_3_6">Появление подъемной силы у движущегося крыла самолета объясняется действием закона Ома?</string>
+    <string name="lvl_desc_3_7">Гигрометром измеряют влажность воздуха?</string>
+    <string name="lvl_desc_3_8">В состав ядра атома входят электроны, протоны, нейтроны?</string>
+    <string name="lvl_desc_3_9">Обычно на колбе электрической лампы, которая светит у каждого из вас в квартире, указывают ее электрические параметры – силу тока, напряжение, мощность?</string>
+    <string name="lvl_desc_3_10">Словами якорь, ротор и статор называют вращающиеся части электрической машины?</string>
+
+    <string name="lvl_desc_6_1" translatable="false">N</string>
+    <string name="lvl_desc_6_2" translatable="false">F</string>
+    <string name="lvl_desc_6_3" translatable="false">p</string>
+    <string name="lvl_desc_6_4" translatable="false">Q</string>
+    <string name="lvl_desc_6_5" translatable="false">S</string>
+    <string name="lvl_desc_6_6" translatable="false">m</string>
+    <string name="lvl_desc_6_7" translatable="false">q</string>
+    <string name="lvl_desc_6_8" translatable="false">p*V</string>
+    <string name="lvl_desc_6_9" translatable="false">M</string>
+    <string name="lvl_desc_6_10" translatable="false">E</string>
+
+    <string name="lvl_desc_6_11" translatable="false">I*U</string>
+    <string name="lvl_desc_6_12" translatable="false">m*a</string>
+    <string name="lvl_desc_6_13" translatable="false">m*V</string>
+    <string name="lvl_desc_6_14" translatable="false">m*λ</string>
+    <string name="lvl_desc_6_15" translatable="false">V*t</string>
+    <string name="lvl_desc_6_16" translatable="false">ρ*V</string>
+    <string name="lvl_desc_6_17" translatable="false">C*U</string>
+    <string name="lvl_desc_6_18" translatable="false">ν*R*T</string>
+    <string name="lvl_desc_6_19" translatable="false">F*d</string>
+    <string name="lvl_desc_6_20" translatable="false">m*c²</string>
+
+
+
+
+
+</resources>

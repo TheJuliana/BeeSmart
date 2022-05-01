@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl_desc_1">Time</string>
+    <string name="lvl_desc_2">Acceleration</string>
+    <string name="lvl_desc_3">Speed</string>
+    <string name="lvl_desc_4">Force</string>
+    <string name="lvl_desc_5">Action</string>
+    <string name="lvl_desc_6">Energy</string>
+    <string name="lvl_desc_7">Way</string>
+    <string name="lvl_desc_8">Weght</string>
+    <string name="lvl_desc_9">Power</string>
+    <string name="lvl_desc_10">Сapacity</string>
+
+    <string name="btn_start">Start</string>
+    <string name="btn_back">Back</string>
+    <string name="level_1">Level 1</string>
+    <string name="btn_dialog">Continue</string>
+    <string name="rules">Choose right physics value</string>
+    <string name="results">number of right answers:</string>
+    <string name="level_2">Level 2</string>
+
+    <string name="lvl_desc_2_1">Period</string>
+    <string name="lvl_desc_2_2">Corner speed</string>
+    <string name="lvl_desc_2_3">Density</string>
+    <string name="lvl_desc_2_4">Pressure</string>
+    <string name="lvl_desc_2_5">frequency</string>
+    <string name="lvl_desc_2_6">Electricity</string>
+    <string name="lvl_desc_2_7">Heat value</string>
+    <string name="lvl_desc_2_8">Induction</string>
+    <string name="lvl_desc_2_9">Potential</string>
+    <string name="lvl_desc_2_10">Volume</string>
+    <string name="level_3">Level 3</string>
+    <string name="level_4">Level 4</string>
+    <string name="level_5">Level 5</string>
+    <string name="level_6">Level 6</string>
+    <string name="rules_2">Are the following statements true?</string>
+    <string name="lvl_desc_3_1">Water vapor looks like white clubs?</string>
+    <string name="lvl_desc_3_2">The specific heat of combustion of gunpowder is lower than that of kerosene?</string>
+    <string name="lvl_desc_3_3">Cold water extinguishes fire faster than boiling water?</string>
+    <string name="lvl_desc_3_4">That a full kettle cools more slowly than an incomplete kettle?</string>
+    <string name="lvl_desc_3_5">Is the earth\'s south magnetic pole in Antarctica?</string>
+    <string name="lvl_desc_3_6">That the appearance of lift in a moving wing of an aircraft is due to the action of Ohm\'s law?</string>
+    <string name="lvl_desc_3_7">Is the air humidity measured with a hygrometer?</string>
+    <string name="lvl_desc_3_8">The nucleus of an atom contains electrons, protons, neutrons?</string>
+    <string name="lvl_desc_3_9">Usually on the bulb of an electric lamp that shines in each of you in the apartment, indicate its electrical parameters - current strength, voltage, power?</string>
+    <string name="lvl_desc_3_10">The words armature, rotor and stator refer to the rotating parts of an electrical machine?</string>
+    <string name="settings">Settings</string>
+    <string name="btn_to_menu">Choose the level</string>
+    <string name="btn_to_exit">Exit game</string>
+    <string name="content_desc">Button</string>
+    <string name="game_over">Congrats, you\'ve completed the game!</string>
+    <string name="lvl_desc_4_1">Temperature</string>
+    <string name="lvl_desc_4_2">Weight</string>
+    <string name="rules_3">Choose the correct unit of measure</string>
+    <string name="rules_4">Pair the object and its formula</string>
+    <string name="level_7">Level 7</string>
+    <string name="cs7">Coming soon ...</string>
+    <string name="about_me">About me</string>
+    <string name="about">Autor:  Svetlakova Juliana</string>
+
+</resources>

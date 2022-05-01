@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">BeeSmart</string>
+    <string name="btn_start">Старт</string>
+    <string name="btn_back">Назад</string>
+    <string name="settings">Настройки</string>
+
+    <string name="btn_dialog">Продолжить</string>
+    <string name="rules">Выбери верную физическую величину</string>
+    <string name="rules_2">Верны ли следующие утверждения?</string>
+    <string name="rules_3">Выбери верную единицу измерения</string>
+    <string name="rules_4">Соедини по парам объект и его формулу</string>
+
+
+    <string name="btn_to_menu">Выбор уровня</string>
+    <string name="btn_to_exit">Выход из игры</string>
+
+    <string name="results">Количество верных ответов:</string>
+    <string name="level_1">Уровень 1</string>
+    <string name="level_2">Уровень 2</string>
+    <string name="level_3">Уровень 3</string>
+    <string name="level_4">Уровень 4</string>
+    <string name="level_5">Уровень 5</string>
+    <string name="level_6">Уровень 6</string>
+    <string name="level_7">Уровень 7</string>
+
+    <string name="content_desc">Кнопка</string>
+    <string name="game_over">Поздравляем, вы прошли игру!</string>
+    <string name="cs7">Продолжение следует …</string>
+    <string name="about_me">Об авторе</string>
+    <string name="about">Автор: Светлакова Ульяна</string>
+
+
+</resources>
